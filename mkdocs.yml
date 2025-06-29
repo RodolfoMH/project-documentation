@@ -1,0 +1,6 @@
+site_name: Documentación General
+nav:
+  - Attendcheck:
+      - Manual de usuario: attendcheck/manual.md
+theme:
+  name: material

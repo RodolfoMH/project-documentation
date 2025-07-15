@@ -489,7 +489,7 @@ Ejemplo:
 Si tienes preguntas, errores que reportar o sugerencias para mejorar la aplicación, no dudes en ponerte en contacto con el desarrollador.
 
 **Contacto del desarrollador:**  
-📧 Email: turnoeasy@google.com  
+📧 Email: attendchecks@gmail.com  
 📱 WhatsApp: +1 (829) 851-0538 o +1 (829) 642-9116  
 💻 Pagina: [https://attendchecks.com](https://attendchecks.com)
 
